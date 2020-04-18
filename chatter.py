@@ -39,7 +39,7 @@ def chatter(bot,update):
         bot.sendPhoto(chat_id=chat_id, photo='https://unsplash.it/600?random')
     else:
         k = aiml.Kernel()
-        k.learn("std-startup.xml")
+        k.learn("startup.xml")
         k.respond("sara")
         k.setBotPredicate("name", "Sara")
         k.setBotPredicate("anyo_nacimiento", "2015")
