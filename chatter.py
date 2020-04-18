@@ -4,8 +4,7 @@ import time
 import signal
 import sys
 import telegram
-from datetime import date
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+from datetime import
 import logging
 import os
 
