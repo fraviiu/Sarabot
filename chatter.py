@@ -6,7 +6,6 @@ import sys
 import telegram
 from datetime import date
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-from gtts import gTTS
 import logging
 import os
 
