@@ -64,7 +64,7 @@ def main():
     # sara
     #updater = Updater("223436029:AAEgihik3KXielXe7lBuP9H7o4M-eUdL_LU")
     #testbot
-    updater = Updater("223436029:AAH9iIhGXP8EAB4qxXx4wJ0-YpYtplYVOkY")
+    updater = Updater("1284275711:AAFKH5WHZYqoeFd8UDMH85ECRpd0oMVWmPU")
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
 
